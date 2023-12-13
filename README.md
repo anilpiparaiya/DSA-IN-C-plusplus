@@ -9,7 +9,7 @@ Fresher’s Guide for MNC :
 5. Solve at least 1 problem a day. Make it a habit.
 6. Understand CS fundamentals ( OOPS, Computer networks, Operating System, & DBMS ).
 7. Spend time on System Design -- Low level & High-Level system design. (Good to have)
-8. Start working on development skills ( full-stack development -- you should use your knowledge of coding & designing scalable systems here ), for project purpose.
+8. Start working on development skills (you should use your knowledge of coding & designing scalable systems here ), for project purpose.
 9. Make a good resume and apply.
 10. Get placed at a top tech companies.
 11.Your dream job is 6 months away.
