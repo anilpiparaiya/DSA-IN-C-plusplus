@@ -1,0 +1,1 @@
+{"name":"Local: bs","url":"/Users/mahimaarora/Desktop/Let's code/cses/bs.cpp","tests":[{"id":1619684890663,"input":"3","output":"8"},{"id":1619684906796,"input":"138367\n","output":"86267609\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mahimaarora/Desktop/Let's code/cses/bs.cpp","group":"local","local":true}

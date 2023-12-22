@@ -1,0 +1,1 @@
+{"name":"Local: maxumsub","url":"/Users/mahimaarora/Desktop/Let's code/cses/sorting/maxumsub.cpp","tests":[{"id":1620640028940,"input":"8\n-1 3 -2 5 3 -5 2 2","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mahimaarora/Desktop/Let's code/cses/sorting/maxumsub.cpp","group":"local","local":true}

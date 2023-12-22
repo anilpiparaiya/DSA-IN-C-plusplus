@@ -1,0 +1,1 @@
+{"name":"Local: 4queens","url":"/Users/mahimaarora/Desktop/Let's code/cses/4queens.cpp","tests":[{"id":1620310974981,"input":"........\n........\n..*.....\n........\n........\n.....**.\n...*....\n........","output":"65"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mahimaarora/Desktop/Let's code/cses/4queens.cpp","group":"local","local":true}

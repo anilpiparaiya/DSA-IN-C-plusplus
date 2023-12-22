@@ -1,0 +1,1 @@
+{"name":"Local: gridpath","url":"/Users/mahimaarora/Desktop/Let's code/cses/dp/gridpath.cpp","tests":[{"id":1620911996167,"input":"4\n....\n.*..\n...*\n*...","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mahimaarora/Desktop/Let's code/cses/dp/gridpath.cpp","group":"local","local":true}

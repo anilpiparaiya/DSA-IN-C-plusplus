@@ -1,0 +1,1 @@
+{"name":"Local: p4","url":"/Users/mahimaarora/Desktop/Let's code/cses/p4.cpp","tests":[{"id":1619429829598,"input":"5\n3 2 5 1 7","output":"5"},{"id":1619430778293,"input":"10\n1000000000 1 1 1 1 1 1 1 1 1","output":"8999999991"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mahimaarora/Desktop/Let's code/cses/p4.cpp","group":"local","local":true}
