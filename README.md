@@ -12,4 +12,4 @@ Fresher’s Guide for MNC :
 8. Start working on development skills (you should use your knowledge of coding & designing scalable systems here ), for project purpose.
 9. Make a good resume and apply.
 10. Get placed at a top tech companies.
-11.Your dream job is 6 months away.
+11. Your dream job is 6 months away.
