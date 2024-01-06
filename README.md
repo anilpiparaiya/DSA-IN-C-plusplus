@@ -13,3 +13,5 @@ Fresher’s Guide for MNC :
 9. Make a good resume and apply.
 10. Get placed at a top tech companies.
 11. Your dream job is 6 months away.
+
+<img src="https://camo.githubusercontent.com/5b471c98e0e8b4ea0fcac0a37eb73e8b404fd265ac4db6cc86e303fb3755aa13/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f696d672d70726163746963652f50726f626c656d6f667468656461796e6577636f70792d313633373634303538392e706e67">
